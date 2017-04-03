@@ -140,3 +140,9 @@ For the next phase, if you really wanted to go crazy, you could get a
 or something a bit smaller, and solder it up permanently in a configuration that
 would fit inside of the original plastic housing. I, however, stopped my build
 at this point (at least for now).
+
+## Conclusion
+After a few hours of play, the performance seems flawless. The pad actually feels
+way more responsive than it ever did as a native GameCube controller. Although, 
+that could be the 12 years of technology advancement in my PC, the Television, 
+and the game software...
